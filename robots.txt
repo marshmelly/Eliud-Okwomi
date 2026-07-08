@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eliud-okwomi.vercel.app//sitemap.xml
